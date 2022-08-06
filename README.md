@@ -32,7 +32,7 @@ The ordering of the emoji and and the annotation are based on the date created. 
  - Yes. You are welcome to edit the non-editorial asset in any way you deem necessary.
  - Any modification that can be considered hostile is strongly discouraged.
 
-3) I have way too much money and want to spare a sizeable portion of it to you desperately.
+4) I have way too much money and want to spare a sizeable portion of it to you desperately.
  - Why not. I am happy to accept your donation. I love you 3000.
 
 ## LICENSE
