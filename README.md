@@ -9,6 +9,14 @@ Currently we only have 5 emOjis. We will continue working on the new version to 
 ## Usage
 You can use this gifs whatever you like. 
 Most notable usage that I have seen so far is using it as stamp on Slack.
+The following table provides a list of the emOji characters with images, descriptioin and keywords.
+The ordering of the emoji and and the annotation are based on the date created. (This might change as we will plan to sort by category)
+| Name | emOjis | Types of emotion |
+| --- | --- | --- |
+| omg-oji | ![omg-oji](https://user-images.githubusercontent.com/67302360/183232942-19a9f75a-ac42-41ad-bd68-0849d0e25b91.gif)| Happy, resentment,confusion |
+| nerf-oji | ![nerf-oji](https://user-images.githubusercontent.com/67302360/183232968-3d5c3651-3a3c-40a9-afe4-605cc4350e6b.gif)| competitive, ambitious, fighting | 
+| goodjob-oji |  ![goodjob-oji](https://user-images.githubusercontent.com/67302360/183232982-6d9dd266-94d8-4fc4-b141-ab60dbe66b11.gif)|compliment, conglatulations, respect|
+| dog-lover-oji | ![dog-over-oji](https://user-images.githubusercontent.com/67302360/183232994-505121d9-788f-4ef7-8685-5c3ceb9a4e2a.gif) |warmth, bossy, care|
 
 
 ## FAQ
