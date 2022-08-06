@@ -1,11 +1,14 @@
-# gifs 
+# emOjis
 ## Contributing guidelines
 Thanks for visiting! Just wanted to note that I can only accept PRs for fixes to typos.
 If you have any new ideas / thoughts on gifs, please open an issue first so that we can discuss it. 
+Currently we only have 5 emOjis. We will continue working on the new version to make the world a better place. 
 
 ## Installation
 
 ## Usage
+You can use this gifs whatever you like. 
+Most notable usage that I have seen so far is using it as stamp on Slack.
 
 
 ## FAQ
@@ -15,7 +18,7 @@ If you have any new ideas / thoughts on gifs, please open an issue first so that
 2) Can I use this for free? 
  - Of course not, you should pay me some respects. Sorry im kidding. YES, you an use this for free. 
 
-3) I have way too much money and want to spare good about of it to you deperately.
+3) I have way too much money and want to spare good about of it to you desperately.
  - Why not. I am happy to accept your donation. I love you.
 
 ## LICENSE
