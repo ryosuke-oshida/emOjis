@@ -27,7 +27,6 @@ The ordering of the emoji and and the annotation are based on the date created. 
 
 2) Can I use this for free? 
  - You can use emOjis, free of charge. 
- - You are welcome to edit the non-editorial asset in any way you deem necessary.
 
 3) Can I modify emOjis? 
  - Yes. You are welcome to edit the non-editorial asset in any way you deem necessary.
