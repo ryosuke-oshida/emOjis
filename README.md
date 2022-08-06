@@ -26,13 +26,18 @@ The ordering of the emoji and and the annotation are based on the date created. 
  - I don't know. I just made this for fun.
 
 2) Can I use this for free? 
- - Of course not, you should pay me some respects. Sorry im kidding. YES, you an use this for free. 
+ - You can use emOjis, free of charge. 
+ - You are welcome to edit the non-editorial asset in any way you deem necessary.
+
+3) Can I modify emOjis? 
+ - Yes. You are welcome to edit the non-editorial asset in any way you deem necessary.
+ - Any modification that can be considered hostile is strongly discouraged.
 
 3) I have way too much money and want to spare a sizeable portion of it to you desperately.
  - Why not. I am happy to accept your donation. I love you 3000.
 
 ## LICENSE
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, pulverize, distribute, synergize, compost, defenestrate, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this GIF images and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, pulverize, distribute, synergize, compost, defenestrate, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
