@@ -7,10 +7,9 @@ Currently we only have 5 emOjis. We will continue working on the new version to 
 ## Installation
 
 ## Usage
-You can use this gifs whatever you like. 
-Most notable usage that I have seen so far is using it as stamp on Slack.
-The following table provides a list of the emOji characters with images, descriptioin and keywords.
-The ordering of the emoji and and the annotation are based on the date created. (This might change as we will plan to sort by category)
+You can use these gifs whatever you like. The most notable usage I have seen so far is using it as a stamp on Slack. 
+The following table provides a list of the emOji characters with images, descriptions, and keywords. 
+The ordering of the emoji and the annotation are based on the date created. (This might change as we will plan to sort by category)
 | Name | emOjis | Types of emotion |
 | --- | --- | --- |
 | omg-oji | ![omg-oji](https://user-images.githubusercontent.com/67302360/183232942-19a9f75a-ac42-41ad-bd68-0849d0e25b91.gif)| Happy, Resentment, Confusion |
