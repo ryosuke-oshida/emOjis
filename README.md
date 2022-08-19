@@ -16,7 +16,7 @@ The ordering of the emoji and the annotation are based on the date created. (Thi
 | nerf-oji | ![nerf-oji](https://user-images.githubusercontent.com/67302360/183232968-3d5c3651-3a3c-40a9-afe4-605cc4350e6b.gif)| Competitive, Ambitious, Fighting | 
 | goodjob-oji |  ![goodjob-oji](https://user-images.githubusercontent.com/67302360/183232982-6d9dd266-94d8-4fc4-b141-ab60dbe66b11.gif)| Compliment, Uplifting, Respect|
 | dog-lover-oji | ![dog-over-oji](https://user-images.githubusercontent.com/67302360/183232994-505121d9-788f-4ef7-8685-5c3ceb9a4e2a.gif) | Warm, Bossy, Caring|
-| ultraman-oji | ![ultraman-oji](https://user-images.githubusercontent.com/67302360/183233347-37c202fc-10a3-4efb-82b8-790e61c77ff2.gif) | Powerful, Competitive, Strong, Focus|
+| ultraman-oji | ![ultraman-oji](https://user-images.githubusercontent.com/67302360/185533908-363b9d75-3057-48ba-914a-091d658a3e02.gif)| Powerful, Competitive, Strong, Focus|
 
 
 
