@@ -1,3 +1,12 @@
+# Updates
+Two new emOjis are approved by me as a part of the updates to the emOjis Standard.
+We added **Appreciation** and **Sorry** this time. Those are most requested ideas and most importaly, significantly easy-to-use for daily basis, so we decided to approve them.
+Check out these newly created emOjis and stay tuned for the next update announcement!
+| Name | emOjis | Types of emotion |
+| --- | --- | --- |
+| appreciation-oji |  ![oji thank you_2](https://user-images.githubusercontent.com/67302360/202078017-c6c08a2f-21f0-42e0-8218-2cda8d8d6f40.gif) | Appreciation, Gratitude |
+| sorry-oji | ![oji sorry](https://user-images.githubusercontent.com/67302360/202078120-79348266-b892-473c-aca7-919e672ec7bd.gif) | Sorry, Regrettful, Down |
+
 # emOjis
 ## Contributing guidelines
 Thanks for visiting! Just wanted to note that I can only accept PRs for fixes to typos.
