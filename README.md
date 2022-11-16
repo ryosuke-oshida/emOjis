@@ -18,7 +18,7 @@ The ordering of the emoji and the annotation are based on the date created. (Thi
 | dog-lover-oji | ![dog-over-oji](https://user-images.githubusercontent.com/67302360/183232994-505121d9-788f-4ef7-8685-5c3ceb9a4e2a.gif) | Warm, Bossy, Caring|
 | ultraman-oji | ![ultraman-oji](https://user-images.githubusercontent.com/67302360/185533908-363b9d75-3057-48ba-914a-091d658a3e02.gif)| Powerful, Competitive, Strong, Focus|
 | disappointed-oji | ![disapponted-oji](https://user-images.githubusercontent.com/67302360/199214392-9ecd34c7-b466-42d3-ae6c-c41367f854c9.gif)| Disappointment, Sadness, Regret|
-| Appreciation-oji |  ![oji thank you_2](https://user-images.githubusercontent.com/67302360/202078017-c6c08a2f-21f0-42e0-8218-2cda8d8d6f40.gif) | Appreciation, Gratitude |
+| appreciation-oji |  ![oji thank you_2](https://user-images.githubusercontent.com/67302360/202078017-c6c08a2f-21f0-42e0-8218-2cda8d8d6f40.gif) | Appreciation, Gratitude |
 | sorry-oji | ![oji sorry](https://user-images.githubusercontent.com/67302360/202078120-79348266-b892-473c-aca7-919e672ec7bd.gif) | Sorry, Regrettful, Down |
 
 
