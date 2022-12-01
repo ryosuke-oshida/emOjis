@@ -29,6 +29,14 @@ The ordering of the emoji and the annotation are based on the date created. (Thi
 | disappointed-oji | ![disapponted-oji](https://user-images.githubusercontent.com/67302360/199214392-9ecd34c7-b466-42d3-ae6c-c41367f854c9.gif)| Disappointment, Sadness, Regret|
 | appreciation-oji |  ![oji thank you_2](https://user-images.githubusercontent.com/67302360/202078017-c6c08a2f-21f0-42e0-8218-2cda8d8d6f40.gif) | Appreciation, Gratitude |
 | sorry-oji | ![oji sorry](https://user-images.githubusercontent.com/67302360/202078120-79348266-b892-473c-aca7-919e672ec7bd.gif) | Sorry, Regrettful, Down |
+| i-dont-know-oji | ![i-dont-know-oji](https://user-images.githubusercontent.com/67302360/204963790-7948d9de-40f2-43f0-aec0-812de5075ea9.gif) | I don't know, I'm not sure |
+| laughing-oji | ![laugh-oji](https://user-images.githubusercontent.com/67302360/204963952-7e144312-e32d-45e2-ab29-490295af2b35.gif)| Laughter, LOL, Fun |
+| running-oji |![running-oji](https://user-images.githubusercontent.com/67302360/204964667-1cf8835c-b9f3-409f-aeb7-c3e4ec61c147.gif)| Run, In hurry, Fast |
+| left-arm-oji | ![ojitoron left small (1)](https://user-images.githubusercontent.com/67302360/204964753-0c390121-9e57-4b37-bfe7-ad2c68fd17a5.gif)| Power, Muscle, Exercise|
+| right-arm-oji |![ojitoron right small (1)](https://user-images.githubusercontent.com/67302360/204964392-2709ec29-f668-4b2f-84fe-bd098b774b8f.gif)
+| Power, Muscle, Exercise|
+| Ojitron | ![ojitoron center small](https://user-images.githubusercontent.com/67302360/204964461-3f006e5d-ac86-4b67-a5b4-18acd91828d5.gif)
+| Power, Muscle, Exercise|
 
 
 ## FAQ
